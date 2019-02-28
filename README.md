@@ -18,3 +18,6 @@ Photo by Егор Камелев on Unsplash https://unsplash.com/@ekamelev
 ### Inspiration
 
 Save humans by detecting and deploying Image Cells that contain Malaria or not!
+
+![GitHub Logo](/images/logo.png)
+
