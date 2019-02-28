@@ -19,5 +19,5 @@ Photo by Егор Камелев on Unsplash https://unsplash.com/@ekamelev
 
 Save humans by detecting and deploying Image Cells that contain Malaria or not!
 
-![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://drive.google.com/file/d/1WkxXGbLR8a_19C87F9PUmqrzuOIGfeh4/view?usp=sharing)
 
