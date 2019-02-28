@@ -1,5 +1,7 @@
 # Malaria-Cells-Classification
 
+<img src="images/malaria.jpg" width="100%">
+
 ## Details aabout the data set
 
 This data set is present at kaggle: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
@@ -19,4 +21,6 @@ Photo by Егор Камелев on Unsplash https://unsplash.com/@ekamelev
 
 Save humans by detecting and deploying Image Cells that contain Malaria or not!
 
-![](images/malaria.jpg)
+#### An infected and uninfected image from data set
+
+![](images/parasite.png) ![](images/uninfected.png)
