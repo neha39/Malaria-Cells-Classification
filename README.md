@@ -2,7 +2,7 @@
 
 <img src="images/malaria.jpg" width="100%">
 
-## Details aabout the data set
+## Details about the data set
 
 This data set is present at kaggle: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
